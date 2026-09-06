@@ -11,3 +11,7 @@ There's quite a few awards I've got:( partly because I seldom participant in the
 - Second Place, Departmental Competition "Industrial Heart, Endless City", 2025.
 
 - 工业工程系“未央城暨工业与系统工程课程大赛”, 第二名.
+
+- Third Place, Departmental Competition "iCenter Financial Quantitative AI Model Challenge", 2025.
+
+- iCenter“金融量化AI模型挑战赛”, 第三名.
